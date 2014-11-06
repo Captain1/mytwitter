@@ -11,6 +11,5 @@ class StaticPagesController < ApplicationController
 
   def about
   end
-  def gamma
-  end
+  
 end
